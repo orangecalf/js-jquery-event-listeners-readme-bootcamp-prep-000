@@ -19,6 +19,8 @@ function frameIt() {
 }
 function pressIt() {
   $("#typing").on("input", function(e) {
-    if (e.which === )
+    if (e.which === 71) {
+      alert("g")
+    }
   })
 }
