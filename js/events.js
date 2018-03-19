@@ -18,5 +18,7 @@ function frameIt() {
   })
 }
 function pressIt() {
-  $("#typing").
+  $("#typing").on("input", function(e) {
+    if (e.which === )
+  })
 }
