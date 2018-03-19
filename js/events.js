@@ -13,5 +13,5 @@ function getIt() {
 }
 
 function frameIt() {
-  $(".tasty")
+  $(".tasty").on("load", function())
 }
