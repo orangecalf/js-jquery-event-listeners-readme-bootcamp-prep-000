@@ -11,3 +11,7 @@ function getIt() {
 })
   
 }
+
+function frameIt() {
+  $(".tasty")
+}
