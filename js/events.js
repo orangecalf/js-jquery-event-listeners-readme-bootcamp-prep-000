@@ -18,5 +18,5 @@ function frameIt() {
   })
 }
 function pressIt() {
-  $("#ty")
+  $("#typing").
 }
